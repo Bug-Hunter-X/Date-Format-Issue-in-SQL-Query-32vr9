@@ -1,0 +1,1 @@
+SELECT * FROM employees WHERE department = 'Sales' AND salary > 100000 AND hire_date < '2022-01-01';
